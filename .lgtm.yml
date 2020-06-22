@@ -1,5 +1,6 @@
-extraction:
-  cpp:
-     configure:
-        command:
-        - ./configure --with-modules="" --without-lua
+path_classifiers:
+    docs:
+        - Documents
+
+    test:
+        - Test
